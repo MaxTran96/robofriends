@@ -1,8 +1,6 @@
-# robofriends-pwa
-Udemy tutorial - adding PWA capabilities to a react app
+My first Progressive Web App using mostly React and Redux
 
 To run the project:
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Clone this repo
+Run npm install
+Run npm start
